@@ -22,4 +22,4 @@ search page which lets  you add more books to read , the books that are on the s
 page have a value of none which changes when the selector changes , and with it the state 
 changes in the search page and boths states of the books change in the search and in the 
 shelves too, when a book in the shelves page is set to none the book automatically
-return to the BookAPI where is store again there **
+return to the BookAPI where is store again there 
