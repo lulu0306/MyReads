@@ -9,8 +9,8 @@ have read, are reading or want to read**
 
 #App Functionality
 
-**In this app the main main page holds the three shelves to make the selection
-of its actual state, that are 
+** In this app the main main page holds the three shelves to make the selection
+of its actual state, that are :
 
 -Currently Reading 
 -Want To Read
