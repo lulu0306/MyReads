@@ -23,3 +23,7 @@ page have a value of none which changes when the selector changes , and with it 
 changes in the search page and boths states of the books change in the search and in the 
 shelves too, when a book in the shelves page is set to none the book automatically
 return to the BookAPI where is store again there 
+
+
+
+**To install download the the file into a folder on your machine and then inside of your terminal go to the folder where you made the download and type npm install , to install all of the packages you  need to run the app , after they are all install write npm start to start the app in your local host after that you will be able to see the Reading app**
